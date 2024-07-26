@@ -12,6 +12,7 @@ if ($uangSaya >= 24) {
 } else {
     $dibeli = "uang saya kurang";
 }
-    echo "JIka saya mempunyai uang <b>$uangSaya</b>K, saya bisa membeli <b>$dibeli</b>";
+
+ echo "JIka saya mempunyai uang <b>$uangSaya</b>K, saya bisa membeli <b>$dibeli</b>";
 
 ?>
