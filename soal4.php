@@ -33,6 +33,7 @@ $barang = [
             echo "</tr>";
         }       
         ?>
+
     </table>
 </body>
 </html>
