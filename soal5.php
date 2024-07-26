@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <title>Halaman Login</title>
     <link rel="stylesheet" href="style.css">
 </head>
@@ -17,8 +17,8 @@
         $errorJurusan = 'Jurusan harus diisi';
       }
     }
-
     ?>
+      
       <form action="soal5a.php" method="POST">
         <h2>Form</h2>
         Nama : <input type="text" name="nama" value="<?= @$_POST['nama']?>">
